@@ -38,6 +38,7 @@ audio:hover{
   height:30px;
   width:60px;
   background:dodgerblue;
+  transition:1s;
 }
 .sub:active{
   scale:1.5;
