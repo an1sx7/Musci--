@@ -1,0 +1,49 @@
+body {
+    background:black;
+    color:white;
+}
+h1{
+  margin-bottom:100px;
+  text-align:center;
+  text-transform:uppercase;
+}
+.images img{
+  width:100px;
+  height: 100px;
+  margin-top:30px;
+  margin-left:45px;
+  border:1px solid white;
+  border-radius:10px;
+  box-shadow: 0 0 30px royalblue;
+}
+h3{
+  margin-left:30px;
+}
+h2{
+  margin-left:15px;
+  text-transform: uppercase;
+}
+audio{
+  transition:1s;
+}
+audio:hover{
+  scale:1.1;
+  margin-left:20px;
+}
+.like{
+  margin-left:100px;
+}
+.sub{
+  margin-left:140px;
+  height:30px;
+  width:60px;
+  background:dodgerblue;
+}
+.sub:active{
+  scale:1.5;
+  background:springgreen;
+  box-shadow:0 0 20px greenyellow;
+}
+hr{
+  margin-top:30px
+}
